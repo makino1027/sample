@@ -1,5 +1,5 @@
 def hello
-  "hello, Git."
+  "hello, Git.KKK"
 end
 
 hello
